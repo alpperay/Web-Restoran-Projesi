@@ -70,8 +70,11 @@ git clone <repo-url>
 Alp Eray Taşçı
 
 📧 <a href="https://mailto:alperaytasci@gmail.com">alperaytasci@gmail.com</a>
+<br>
 🌐 <a href="https://github.com/alpperay">github.com/alpperay</a>
+<br>
 📸 <a href="https://instagram.com/alperaytasci">instagram.com/alperaytasci</a>
+<br>
 💼 <a href="https://linkedin.com/in/alperaytasci">linkedin.com/in/alperaytasci</a>
 
 ## 📄 Lisans
