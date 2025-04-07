@@ -69,7 +69,7 @@ git clone <repo-url>
 
 Alp Eray Taşçı
 
-📧 <a href="https://mailto:alperaytasci@gmail.com" target="_blank">alperaytasci@gmail.com</a>
+📧 <a href="mailto:alperaytasci@gmail.com" target="_blank">alperaytasci@gmail.com</a>
 <br>
 🌐 <a href="https://github.com/alpperay" target="_blank">github.com/alpperay</a>
 <br>
