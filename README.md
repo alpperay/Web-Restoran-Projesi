@@ -79,7 +79,7 @@ Alp Eray Taşçı
 
 ## 📄 Lisans
 
-Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için [LICENSE] dosyasına göz atabilirsiniz.
+Bu proje MIT Lisansı ile lisanslanmıştır.
 
 ## Katkıda Bulunma
 
