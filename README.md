@@ -48,18 +48,19 @@ git clone <repo-url>
 
 **Ana Sayfa**
 
-![ana sayfa ekran](https://github.com/user-attachments/assets/8ab57be4-5d7b-4608-973d-48d3dfb3c09f)
+![ana sayfa](https://github.com/user-attachments/assets/5d7f8da1-c4f8-47b9-823d-72954c9625a5)
 
 **Hakkımızda**
 
 ![hakkımızda sayfası](https://github.com/user-attachments/assets/ae5cb3b9-c860-46bd-aa68-f698dc33be47)
 
 **Menü**
+
 ![menü sayfası](https://github.com/user-attachments/assets/1a7b26ff-9b3c-440c-9c4b-857677070d37)
 
 **İletişim**
 
-![iletisim sayfası](https://github.com/user-attachments/assets/856e5291-dfb9-4326-ab90-500aee077363)
+![iletisim sayfası](https://github.com/user-attachments/assets/20b5926c-277a-499c-8d3d-aeea23f06040)
 
 **Footer**
 
