@@ -13,7 +13,12 @@ html {
 
 .logo h3 {
   color: white;
-  padding: 15px;
+  padding: 10px;
+  letter-spacing: 3px;
+}
+
+.logo h3 span{
+  color: gold;
 }
 
 .navbar {
@@ -26,14 +31,14 @@ html {
   list-style: none;
   display: flex;
   gap: 20px;
-  padding: 15px;
+  padding: 10px;
 }
 
 .navbar ul li a {
   text-decoration: none;
   color: white;
   text-transform: uppercase;
-  transition: 0.3s ease-in-out;
+  transition: 0.5s ease-in-out;
   position: relative;
 }
 
@@ -73,23 +78,23 @@ html {
 
 .overlay-text h2 {
   text-align: center;
-  font-size: 45px;
+  font-size: 35px;
 }
 
 .overlay-text p {
-  line-height: 1.5;
-  background-color: goldenrod;
+  background-color:rgb(218, 142, 0);
 }
 
 .main .overlay-text .main-button {
   background-color: #d4a95d;
   outline: none;
   border: none;
-  padding: 10px;
+  width: 150px;
+  height: 30px;
   color: white;
   cursor: pointer;
   position: absolute;
-  left: 38%;
+  left: 36%;
   margin-top: 20px;
   transition: 0.3s ease-in-out;
 }
@@ -114,7 +119,7 @@ html {
 }
 
 .about .card {
-  width: 49%;
+  width: 47%;
   display: flex;
   margin-top: 40px;
 }
@@ -201,7 +206,7 @@ html {
 
 .iletisim {
   margin-top: 70px;
-  transform: translateY(-70px) translateX(200px);
+  transform: translateY(-70px) translateX(90px);
 }
 
 .contact-info {
@@ -217,7 +222,8 @@ html {
   flex-direction: column;
   align-items: center;
   padding: 15px;
-  transform: translateX(600px) translateY(-15px);
+  margin-left: 40%;
+  transform: translateY(-15px);
 }
 
 .form h2 {
